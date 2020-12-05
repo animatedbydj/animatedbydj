@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![portgif](https://res.cloudinary.com/animatedbydj/image/upload/v1601041770/djanim.gif)
+
 
 <!--
 **animatedbydj/animatedbydj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
